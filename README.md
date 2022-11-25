@@ -2,7 +2,7 @@
 
 ------------------
 ### Prediction of the model for a computer mouse
-![Computer Mouse]<img src="https://github.com/MasterKinjalk/Recognise-Objects-Using-Our-APP/blob/master/LaptopPrediction.jpeg" width="400" height="790" align = "left">
+![Computer Mouse]<img src="https://github.com/MasterKinjalk/Recognise-Objects-Using-Our-APP/blob/master/MousePred.jpeg" width="400" height="790" align = "left">
 
  ------------------
 
