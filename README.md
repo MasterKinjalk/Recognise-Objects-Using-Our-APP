@@ -5,3 +5,5 @@
 ![Prediction for a Laptop](https://github.com/MasterKinjalk/Recognise-Objects-Using-Our-APP/blob/master/LaptopPred.jpeg?raw=true)
 
 !/LaptopPred.jpeg
+
+!https://github.com/MasterKinjalk/Recognise-Objects-Using-Our-APP/blob/master/LaptopPred.jpeg?raw=true
