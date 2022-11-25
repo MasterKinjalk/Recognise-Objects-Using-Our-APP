@@ -2,7 +2,7 @@
 
 ------------------
 ### Prediction of the model for a computer mouse
-![Mouse Prediction](https://user-images.githubusercontent.com/60870318/204049338-28b0fbaa-81e7-40c5-a34d-0d63fb073069.jpeg)
+![test image size]<img src="[https://fullpath/assets/yourgif.gif](https://github.com/MasterKinjalk/Recognise-Objects-Using-Our-APP/blob/master/LaptopPrediction.jpeg)" width="400" height="790">
 
  ------------------
 
