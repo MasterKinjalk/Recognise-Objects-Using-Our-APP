@@ -6,7 +6,8 @@
  ------------------
 
 ### Prediction of the model for a Laptop
-<img src="https://github.com/MasterKinjalk/Recognise-Objects-Using-Our-APP/blob/master/LaptopPrediction.jpeg width="400" height="790" align = "right">
+
+<img src="https://github.com/MasterKinjalk/Recognise-Objects-Using-Our-APP/blob/master/LaptopPrediction.jpeg" width="400" height="790" align = "left">
  ------------------
  
 ### Prediction of the model for a Belt Buckle
