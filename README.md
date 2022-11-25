@@ -1,16 +1,18 @@
 # Recognise-Objects-Using-Our-APP
 
 ------------------
-### Prediction of the model for a computer mouse
+### Prediction of the model for a Computer Mouse
 <img src="https://github.com/MasterKinjalk/Recognise-Objects-Using-Our-APP/blob/master/MousePrediction.jpeg" width="400" height="790" align = "left">
 
-### Prediction of the model for a Laptop
+<p align="right"> <h3> Prediction of the model for a Laptop</h3> </p>
 
 <img src="https://github.com/MasterKinjalk/Recognise-Objects-Using-Our-APP/blob/master/LaptopPrediction.jpeg" width="400" height="790" align = "left">
  ------------------
- <br>
  
-### Prediction of the model for a Belt Buckle
-<img src="https://user-images.githubusercontent.com/60870318/204049648-059f0478-575b-4dfc-9662-958dc62c5dea.jpeg" width="400" height="790">
+ ### Prediction of the model for a Belt Buckle
+ <p align="center">
+  <img width="400" height="790" src="https://user-images.githubusercontent.com/60870318/204049648-059f0478-575b-4dfc-9662-958dc62c5dea.jpeg">
+</p>
+ 
 
 
